@@ -1,5 +1,5 @@
 # altice
-This repo is for the implementation of an exercise for altice
+This repo is for the implementation of an exercise for altice, the project is present in the master branch of this repo
 
 Running the application in dev mode
 You can run your application in dev mode that enables live coding using:
